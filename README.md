@@ -28,8 +28,10 @@ I am a [bitExpert](https://www.bitExpert.de) co-founder, [unKonf](https://www.un
 
 #### 📫 How to reach me
 
+- Mastodon: [@shochdoerfer@phpc.social](https://phpc.social/@shochdoerfer)
 - Twitter: [@shochdoerfer](https://twitter.com/shochdoerfer)
 - Email: [S.Hochdoerfer@bitExpert.de](mailto://S.Hochdoerfer@bitExpert.de)
 - LinkedIn: [Stephan Hochdörfer](https://www.linkedin.com/in/stephanhochdoerfer/)
+- Company blog: [blog.bitExpert.de](https://blog.bitExpert.de)
 
 Dear recruiter, it's awesome that you found my GitHub profile and you think that I'd be a good match for your client. Unfortunately, I am absolutely not interested in any of your job offers. Thanks for your understanding!
