@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Stephan Hochdörfer](https://twitter.com/shochdoerfer). I am a seasoned software developer, conference speaker, and an entrepreneur by heart with a magic touch.
+I am [Stephan Hochdörfer](https://phpc.social/@shochdoerfer). I am a seasoned software developer, conference speaker, and an entrepreneur by heart with a magic touch.
 I am a [bitExpert](https://www.bitExpert.de) co-founder, [unKonf](https://www.unKonf.de) host, [phpugffm](https://www.phpugffm.de) & [phpugmrn](https://www.phpugmrn.de) co-organizer, [traefik](https://traefik.io) Ambassador, dabbling a bit with [Magento](https://magento.com), and [captainhookphp](https://captainhookphp.github.io/captainhook/) landlubber.
 
 ---
