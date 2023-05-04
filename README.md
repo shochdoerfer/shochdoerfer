@@ -14,7 +14,6 @@ I help companies to turn their "problems" into their competitive advantages by c
 - [hivecommerce/magento2-content-fuzzyfyr](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content.
 - [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
 
-
 ---
 
 #### 💬 Some of my favourite talks
@@ -25,6 +24,13 @@ I help companies to turn their "problems" into their competitive advantages by c
 - [From dev to prod with GitLab CI](https://talks.bitexpert.de/phpruhr19-gitlabci/)
 - [The NoSQL Store everyone ignores: PostgreSQL](https://talks.bitexpert.de/confoo17-postgres-nosql/)
 
+---
+
+#### 💬 What I am blogging about
+<!--- blog_start --->
+- [Magento 2 ERR_TOO_MANY_REDIRECTS](https://blog.bitexpert.de/blog/magento_ssl_redirect_error)
+- [Microsoft Graph Developer Proxy](https://blog.bitexpert.de/blog/ms_graph_developer_proxy)
+<!--- blog_end --->
 
 ---
 
