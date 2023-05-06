@@ -28,11 +28,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [PHPUGFFM 03/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2023)
 - [Composer Integrity Plugin](https://blog.bitexpert.de/blog/composer_integrity_plugin)
 - [Mage Titans Manchester 2023 conference review](https://blog.bitexpert.de/blog/magetitians_manchester_2023_review)
 - [Handling invalid url parameters with nginx](https://blog.bitexpert.de/blog/nginx_handle_invalid_urls)
 - [Magento 2 ERR_TOO_MANY_REDIRECTS](https://blog.bitexpert.de/blog/magento_ssl_redirect_error)
-- [Microsoft Graph Developer Proxy](https://blog.bitexpert.de/blog/ms_graph_developer_proxy)
 <!--- blog_end --->
 
 ---
