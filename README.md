@@ -28,11 +28,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Elasticsuite Sort Relevance Boost](https://blog.bitexpert.de/blog/elasticsuite_sort_relevance_boost)
 - [One year of using Docusaurus](https://blog.bitexpert.de/blog/one_year_of_docusaurus)
 - [Debugging a TraefikEE routing problem](https://blog.bitexpert.de/blog/debugging_traefikee_routing_problem)
 - [Undefined array key instance in ArgumentsResolver.php](https://blog.bitexpert.de/blog/magento_undefined_key_arguments_resolver)
 - [PHPUGFFM 03/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2023)
-- [Composer Integrity Plugin](https://blog.bitexpert.de/blog/composer_integrity_plugin)
 <!--- blog_end --->
 
 ---
