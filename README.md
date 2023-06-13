@@ -28,11 +28,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Our Docusaurus publishing workflow](https://blog.bitexpert.de/blog/our_docusaurus_publishing_workflow)
 - [Using Gally API](https://blog.bitexpert.de/blog/using_gally_api)
 - [DDEV for IntelliJ IDEA causes PHPUnit error](https://blog.bitexpert.de/blog/ddev_intellij_plugin_phpunit_error)
 - [PHPUGMRN 03/23 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_june_2023)
 - [Elasticsuite Sort Relevance Boost](https://blog.bitexpert.de/blog/elasticsuite_sort_relevance_boost)
-- [One year of using Docusaurus](https://blog.bitexpert.de/blog/one_year_of_docusaurus)
 <!--- blog_end --->
 
 ---
