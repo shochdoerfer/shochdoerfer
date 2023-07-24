@@ -28,11 +28,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [unKonf 2023](https://blog.bitexpert.de/blog/unkonf-2023)
 - [Traefik file provider configuration](https://blog.bitexpert.de/blog/traefik_file_provider_configuration)
 - [Using Sulu user roles in conditions](https://blog.bitexpert.de/blog/sulu_userroles_in_conditions)
 - [Automated Sylius Deployment](https://blog.bitexpert.de/blog/sylius_deployment_pipeline)
 - [Linting neon files in CI](https://blog.bitexpert.de/blog/linting_neon_files)
-- [HashiDays 2023 Munich recap](https://blog.bitexpert.de/blog/hashidays_2023_recap)
 <!--- blog_end --->
 
 ---
