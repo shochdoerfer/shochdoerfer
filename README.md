@@ -28,11 +28,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [PHPUGMRN 04/23 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_august_2023)
 - [Matomo Tracking in a Sulu Headless setup](https://blog.bitexpert.de/blog/matomo_tracking_sulu_headless)
 - [unKonf 2023](https://blog.bitexpert.de/blog/unkonf-2023)
 - [Traefik file provider configuration](https://blog.bitexpert.de/blog/traefik_file_provider_configuration)
 - [Using Sulu user roles in conditions](https://blog.bitexpert.de/blog/sulu_userroles_in_conditions)
-- [Automated Sylius Deployment](https://blog.bitexpert.de/blog/sylius_deployment_pipeline)
 <!--- blog_end --->
 
 ---
