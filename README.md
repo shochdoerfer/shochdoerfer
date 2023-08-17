@@ -28,11 +28,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Sync Sylius order payment state to an invoice](https://blog.bitexpert.de/blog/sylius_invoice_sync_paymentstate)
 - [Deployer & Tideways Deployment Events](https://blog.bitexpert.de/blog/deployer_tideways_deployment_events)
 - [DDEV & CaptainHookPHP](https://blog.bitexpert.de/blog/ddev_captainhookphp)
 - [PHPUGMRN 04/23 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_august_2023)
 - [Matomo Tracking in a Sulu Headless setup](https://blog.bitexpert.de/blog/matomo_tracking_sulu_headless)
-- [unKonf 2023](https://blog.bitexpert.de/blog/unkonf-2023)
 <!--- blog_end --->
 
 ---
