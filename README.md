@@ -28,11 +28,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Shrink your WSL2 virtual disk to reclaim disk space](https://blog.bitexpert.de/blog/shrink_wsl2_virtual_disk)
 - [Fixing a OneDrive permission problem](https://blog.bitexpert.de/blog/fixing_onedrive_permission_problem)
 - [DDEV downgrade npm for Sulu CMS](https://blog.bitexpert.de/blog/ddev_npm_downgrade_sulu)
 - [Delete recurring meetings in Office 365](https://blog.bitexpert.de/blog/office365_delete_recurring_meetings)
 - [PHPUGFFM 04/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_september_2023)
-- [Why DDEV?](https://blog.bitexpert.de/blog/why_ddev)
 <!--- blog_end --->
 
 ---
