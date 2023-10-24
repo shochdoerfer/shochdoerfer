@@ -28,11 +28,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Deploying Sylius with Deployer](https://blog.bitexpert.de/blog/deploying_sylius_with_deployer)
 - [Using existing Docker network error in Docker Compose](https://blog.bitexpert.de/blog/docker_using_existing_network)
 - [PostgreSQL upgrade in a Docker setup](https://blog.bitexpert.de/blog/postgresql_upgrade_with_docker)
 - [Deploying Sulu CMS with Deployer](https://blog.bitexpert.de/blog/deploying_sulu_with_deployer)
 - [Avoid sending multiple invoice emails in Sylius](https://blog.bitexpert.de/blog/sylius_avoid_sending_multiple_invoice_emails)
-- [Shrink your WSL2 virtual disk to reclaim disk space](https://blog.bitexpert.de/blog/shrink_wsl2_virtual_disk)
 <!--- blog_end --->
 
 ---
