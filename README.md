@@ -8,6 +8,7 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 👷 What I'm currently working on
 
+- [gally/sylius-plugin](https://github.com/Elastic-Suite/gally-sylius-connector) - Sylius Connector for Gally
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento extension for PHPStan
 - [bitExpert/sulu-securitytxt-bundle](https://github.com/bitExpert/sulu-securitytxt-bundle) - Sulu Bundle to manage security.txt files
 - [bitExpert/captainhook-infection](https://github.com/bitExpert/captainhook-infection) - Infection Plugin for CaptainHookPHP
