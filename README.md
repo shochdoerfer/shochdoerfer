@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Deploy Docusaurus on Nomad](https://blog.bitexpert.de/blog/deploy_docusaurus_on_nomad)
 - [PHPUGMRN 06/23 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_december_2023)
 - [Display RSS feed on your GitHub profile](https://blog.bitexpert.de/blog/display_rss_feed_on_github_profile)
 - [PHPUGFFM 05/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_november_2023)
 - [Hello Docusaurus v3!](https://blog.bitexpert.de/blog/hello_docusaurus_v3)
-- [My SyliusCon 2023 review](https://blog.bitexpert.de/blog/syliuscon2023_review)
 <!--- blog_end --->
 
 ---
