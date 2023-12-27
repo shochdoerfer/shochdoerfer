@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [What are Sylius Template Events?](https://blog.bitexpert.de/blog/sylius_template_events)
 - [Happy Birthday phpugmrn!](https://blog.bitexpert.de/blog/happy_birthday_phpugmrn_2023)
 - [Why is bitExpert blogging?](https://blog.bitexpert.de/blog/why_blogging)
 - [Detect Git secrets leakage with CaptainHookPHP](https://blog.bitexpert.de/blog/captainhookphp_detect_secrets_leakage)
 - [OpenAI experiments](https://blog.bitexpert.de/blog/openai_experiments)
-- [Kellerkinder Barcamp 2023 review](https://blog.bitexpert.de/blog/kellerkinder_barcamp_2023_review)
 <!--- blog_end --->
 
 ---
