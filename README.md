@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Techradar 2024 update](https://blog.bitexpert.de/blog/techradar_update_2024)
 - [Detect expiring todo comments with PHPStan](https://blog.bitexpert.de/blog/phpstan_todo_comments_with_expiration)
 - [Customize the Sylius Checkout](https://blog.bitexpert.de/blog/customize_sylius_checkout)
 - [Spring Modulith introduction (majug24)](https://blog.bitexpert.de/blog/majug24_spring_modulith)
 - [Introducing Gally at phpugffm24](https://blog.bitexpert.de/blog/phugffm24_gally)
-- [Updating Xdebug via PECL in DDEV](https://blog.bitexpert.de/blog/ddev_pecl_xdebug)
 <!--- blog_end --->
 
 ---
