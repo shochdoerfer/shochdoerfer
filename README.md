@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [PHPUGFFM 02/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_march_2024)
 - [Introducing HTTPie Desktop](https://blog.bitexpert.de/blog/introducing_httpie_desktop)
 - [MS Graph API: Query Groups & Planners](https://blog.bitexpert.de/blog/msgraph_api_query_groups_and_planners)
 - [Using DDEV for Sylius Plugin Development](https://blog.bitexpert.de/blog/using_ddev_for_sylius_plugin_development)
 - [Sylius Days Mannheim 2024](https://blog.bitexpert.de/blog/sylius_days_mannheim_2024)
-- [PHPUGMRN 01/24 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_feb_2024)
 <!--- blog_end --->
 
 ---
