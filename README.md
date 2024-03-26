@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Sylius Grid Deep Dive](https://blog.bitexpert.de/blog/sylius_grid_deep_dive)
 - [Nomad TLS error in CI pipeline](https://blog.bitexpert.de/blog/nomad_tls_error_ci_pipeline)
 - [Hello Techradar v4!](https://blog.bitexpert.de/blog/techradar_v4)
 - [Nomad OIDC authentication with Entra ID](https://blog.bitexpert.de/blog/nomad_oidc_entra_id)
 - [PHPUGFFM 02/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_march_2024)
-- [Introducing HTTPie Desktop](https://blog.bitexpert.de/blog/introducing_httpie_desktop)
 <!--- blog_end --->
 
 ---
