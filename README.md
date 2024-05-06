@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [SymfonyLive Berlin 2024: Gally](https://blog.bitexpert.de/blog/symfony_live_berlin_2024)
 - [IONOS Cloud: Logging as a Service Howto](https://blog.bitexpert.de/blog/ionos_cloud_laas)
 - [Adding Klaro! Consent Manager to Docusaurus](https://blog.bitexpert.de/blog/docusaurus_klaro_consent_manager)
 - [Delete S3 buckets fast](https://blog.bitexpert.de/blog/delete_s3_buckets_fast)
 - [Sylius Grid Deep Dive](https://blog.bitexpert.de/blog/sylius_grid_deep_dive)
-- [Nomad TLS error in CI pipeline](https://blog.bitexpert.de/blog/nomad_tls_error_ci_pipeline)
 <!--- blog_end --->
 
 ---
