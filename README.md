@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [PHPUGFFM 03/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2024)
 - [Not enough free space on the disk for Nexus to start](https://blog.bitexpert.de/blog/nexus_orientdb_diskfreespacelimit)
 - [SymfonyLive Berlin 2024: Gally](https://blog.bitexpert.de/blog/symfony_live_berlin_2024)
 - [IONOS Cloud: Logging as a Service Howto](https://blog.bitexpert.de/blog/ionos_cloud_laas)
 - [Adding Klaro! Consent Manager to Docusaurus](https://blog.bitexpert.de/blog/docusaurus_klaro_consent_manager)
-- [Delete S3 buckets fast](https://blog.bitexpert.de/blog/delete_s3_buckets_fast)
 <!--- blog_end --->
 
 ---
