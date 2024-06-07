@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [HashiDays 2024 Munich recap](https://blog.bitexpert.de/blog/hashidays_2024_recap)
 - [MS Graph API: Filter queries](https://blog.bitexpert.de/blog/msgraph_api_filter_queries)
 - [Adding wkhtmltopdf to the Sylius Alpine Docker image](https://blog.bitexpert.de/blog/sylius_docker_alpine_wkhtmltopdf)
 - [Export CSV files via MySQL](https://blog.bitexpert.de/blog/export_csv_files_via_mysql)
 - [PHPUGFFM 03/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2024)
-- [Not enough free space on the disk for Nexus to start](https://blog.bitexpert.de/blog/nexus_orientdb_diskfreespacelimit)
 <!--- blog_end --->
 
 ---
