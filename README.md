@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Introducing Gally at Magento Stammtisch Berlin](https://blog.bitexpert.de/blog/magento_stammtisch_berlin_gally)
 - [Sylius Customer Force Login Module 0.1.0](https://blog.bitexpert.de/blog/sylius_force_login_0_1_0)
 - [HashiDays 2024 Munich recap](https://blog.bitexpert.de/blog/hashidays_2024_recap)
 - [MS Graph API: Filter queries](https://blog.bitexpert.de/blog/msgraph_api_filter_queries)
 - [Adding wkhtmltopdf to the Sylius Alpine Docker image](https://blog.bitexpert.de/blog/sylius_docker_alpine_wkhtmltopdf)
-- [Export CSV files via MySQL](https://blog.bitexpert.de/blog/export_csv_files_via_mysql)
 <!--- blog_end --->
 
 ---
