@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Vendor patches, the easy way!](https://blog.bitexpert.de/blog/vendor_patches_the_easy_way)
 - [Windows Terminal newTab Menu](https://blog.bitexpert.de/blog/mwindows_terminal_newtab_menu)
 - [PHP Developer Day 2024 Conference](https://blog.bitexpert.de/blog/php_developer_day_2024)
 - [Running Boundary on Nomad](https://blog.bitexpert.de/blog/boundary_nomad)
 - [Predefined list of tags in Docusaurus](https://blog.bitexpert.de/blog/docusaurus_predefined_list_of_tags)
-- [Deploying Sylius on Nomad](https://blog.bitexpert.de/blog/deploying_sylius_on_nomad)
 <!--- blog_end --->
 
 ---
