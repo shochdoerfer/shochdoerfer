@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Using Basic Auth in Traefik conditionally](https://blog.bitexpert.de/blog/traefik_conditionally_http_basic_auth)
 - [Fixing duplicate primary key problem during Magento upgrade](https://blog.bitexpert.de/blog/magento_duplicate_primary_key_problem)
 - [SSO with Sulu CMS and Entra ID](https://blog.bitexpert.de/blog/sulu_cms_sso_azure)
 - [Boundary, Traefik and haproxy](https://blog.bitexpert.de/blog/boundary_traefik_haproxy)
 - [Sharing Docker Volumes in DDEV](https://blog.bitexpert.de/blog/ddev_share_volume)
-- [Magento Cron via systemd timers](https://blog.bitexpert.de/blog/magento_systemd_timer)
 <!--- blog_end --->
 
 ---
