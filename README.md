@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Migrate MS Teams webhooks to Power Automate](https://blog.bitexpert.de/blog/ms_teams_webhook_changes)
 - [PHPUGFFM 04/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_september_2024)
 - [Using Basic Auth in Traefik conditionally](https://blog.bitexpert.de/blog/traefik_conditionally_http_basic_auth)
 - [Fixing duplicate primary key problem during Magento upgrade](https://blog.bitexpert.de/blog/magento_duplicate_primary_key_problem)
 - [SSO with Sulu CMS and Entra ID](https://blog.bitexpert.de/blog/sulu_cms_sso_azure)
-- [Boundary, Traefik and haproxy](https://blog.bitexpert.de/blog/boundary_traefik_haproxy)
 <!--- blog_end --->
 
 ---
