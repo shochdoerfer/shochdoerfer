@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Encrypting Data with Doctrine](https://blog.bitexpert.de/blog/data_encryption_with_doctrine)
 - [Simplifying Symfony Containerization with DDEV at SymfonyCon 2024](https://blog.bitexpert.de/blog/symfonycon_2024_ddev)
 - [Traefik Timeout in GitLab CI Pipeline](https://blog.bitexpert.de/blog/traefik_timeout_gitlab_ci)
 - [Fixing Magento warning MySQL innodb_buffer_pool_size](https://blog.bitexpert.de/blog/mysql_innodb_buffer_pool_size_warning)
 - [Migrate MS Teams webhooks to Power Automate](https://blog.bitexpert.de/blog/ms_teams_webhook_changes)
-- [PHPUGFFM 04/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_september_2024)
 <!--- blog_end --->
 
 ---
