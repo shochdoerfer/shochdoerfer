@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Formatting XML with Twig](https://blog.bitexpert.de/blog/xml_output_formatting_twig)
 - [Fixing encoding issues with mb_convert_encoding()](https://blog.bitexpert.de/blog/fixing_encoding_issues_with_mb_convert_encoding)
 - [Clean up GitLab CI Build artifacts](https://blog.bitexpert.de/blog/gitlab_ci_bulk_delete_artifacts)
 - [Simplifying Sylius Containerization with DDEV at SyliusCon 2024](https://blog.bitexpert.de/blog/syliuscon_2024_ddev)
 - [Encrypting Data with Doctrine](https://blog.bitexpert.de/blog/data_encryption_with_doctrine)
-- [Simplifying Symfony Containerization with DDEV at SymfonyCon 2024](https://blog.bitexpert.de/blog/symfonycon_2024_ddev)
 <!--- blog_end --->
 
 ---
