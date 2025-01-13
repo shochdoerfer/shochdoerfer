@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Building SyliusGPT with the IONOS AI Model Hub](https://blog.bitexpert.de/blog/ionos_ai_model_hub_sylius)
 - [Vulnerabilities scanning with IONOS Container Registry](https://blog.bitexpert.de/blog/ionos_container_registry_vulnerabilities_scanning)
 - [Adding metadata to an API Platform Input DTO](https://blog.bitexpert.de/blog/apiplatform_input_dto_metadata)
 - [Docusaurus Faster](https://blog.bitexpert.de/blog/docusaurus_faster)
 - [Sulu Media Storage on IONOS Cloud S3](https://blog.bitexpert.de/blog/sulu_ionos_cloud_s3)
-- [Sylius Grid: Filter data for user](https://blog.bitexpert.de/blog/sylius_gridbundle_filter_for_user)
 <!--- blog_end --->
 
 ---
