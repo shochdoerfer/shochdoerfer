@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Sylius Framework Deep Dive](https://blog.bitexpert.de/blog/livestream_sylius_deep_dive)
 - [Techradar 2025 update](https://blog.bitexpert.de/blog/techradar_update_2025)
 - [Introducing Sylius Stack](https://blog.bitexpert.de/blog/introducing_sylius_stack)
 - [Dynamic Secrets with Vault & Boundary](https://blog.bitexpert.de/blog/dynamic_secrets_with_vault_boundary)
 - [New Sylius Force Login Plugin Release](https://blog.bitexpert.de/blog/sylius_force_login_0_3)
-- [PHPUGFFM 01/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_january_2025)
 <!--- blog_end --->
 
 ---
