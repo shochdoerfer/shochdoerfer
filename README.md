@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [SymfonyLive Berlin 2025: Gally](https://blog.bitexpert.de/blog/symfony_live_berlin_2025)
 - [PHPUGMRN 01/25 meetup](https://blog.bitexpert.de/blog/phpugmrn_february_2025)
 - [My first experience with Bun](https://blog.bitexpert.de/blog/my_first_experience_with_bun)
 - [Sylius Framework Deep Dive](https://blog.bitexpert.de/blog/livestream_sylius_deep_dive)
 - [Techradar 2025 update](https://blog.bitexpert.de/blog/techradar_update_2025)
-- [Introducing Sylius Stack](https://blog.bitexpert.de/blog/introducing_sylius_stack)
 <!--- blog_end --->
 
 ---
