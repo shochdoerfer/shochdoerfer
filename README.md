@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Stephan Hochdörfer](https://phpc.social/@shochdoerfer). I am a software developer, conference speaker, [bitExpert](https://www.bitExpert.de) co-founder, [unKonf](https://www.unKonf.de) host, [phpugffm](https://www.phpugffm.de) & [phpugmrn](https://www.phpugmrn.de) co-organizer, [traefik](https://traefik.io) Ambassador.
+I am [Stephan Hochdörfer](https://phpc.social/@shochdoerfer). I am a software developer, conference speaker, [bitExpert](https://www.bitExpert.de) co-founder, [unKonf](https://www.unKonf.de) host, [phpugffm](https://www.phpugffm.de) & [phpugmrn](https://www.phpugmrn.de) co-organizer, [traefik](https://traefik.io) & [HashiCorp](https://www.hashicorp.com) Ambassador.
 
 I help companies to turn their "problems" into their competitive advantages by creating digital solutions powered by state-of-the-art low-code or pro-code platforms.
 
