@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Using Live Components in Sylius Twig Hooks](https://blog.bitexpert.de/blog/sylius_twig_hooks_and_live_components)
 - [PHPUGFFM 03/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_june_2025)
 - [Extending a Live Component in Sylius 2.0](https://blog.bitexpert.de/blog/extend_sylius_live_component)
 - [Migrating from Monofony to Sylius Stack](https://blog.bitexpert.de/blog/migrating_monofony_to_sylius_stack)
 - [PHPUGMRN 02/25 meetup](https://blog.bitexpert.de/blog/phpugmrn_april_2025)
-- [HashiCorp Ambassador 2025](https://blog.bitexpert.de/blog/hashicorp_ambassador_2025)
 <!--- blog_end --->
 
 ---
