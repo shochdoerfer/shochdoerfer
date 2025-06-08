@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [30 years of PHP](https://blog.bitexpert.de/blog/30-years-of-php)
 - [Using Dynamic Host Volumes in Nomad](https://blog.bitexpert.de/blog/nomad_dynamic_host_volumes)
 - [Sylius Days 2025 review](https://blog.bitexpert.de/blog/sylius_days_2025)
 - [PHPUGMRN 03/25 meetup (the Sylius meetup)](https://blog.bitexpert.de/blog/phpugmrn_june_2025)
 - [Using array shape as custom type in PHPStan](https://blog.bitexpert.de/blog/phpstan_array_shape_as_custom_type)
-- [Using Live Components in Sylius Twig Hooks](https://blog.bitexpert.de/blog/sylius_twig_hooks_and_live_components)
 <!--- blog_end --->
 
 ---
