@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Introducing SMTP2Graph](https://blog.bitexpert.de/blog/introducing_smtp2graph)
 - [How to Test Gitlab CI Pipelines locally in 2025](https://blog.bitexpert.de/blog/how-to-test-gitlab-ci-pipelines-locally-2025)
 - [Docker Prune via Systemd](https://blog.bitexpert.de/blog/docker_prune_systemd)
 - [Handling permissions with Sylius Resource Bundle](https://blog.bitexpert.de/blog/sylius_resource_bundle_permission_handling)
 - [Nomad Host Network Configuration](https://blog.bitexpert.de/blog/nomad_host_network)
-- [Running DDEV with FrankenPHP](https://blog.bitexpert.de/blog/ddev_frankenphp)
 <!--- blog_end --->
 
 ---
