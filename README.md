@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Migrating from TraefikEE to Traefik Proxy](https://blog.bitexpert.de/blog/migrating_traefikee_to_traefik_proxy)
 - [Logging to IONOS Cloud LaaS with Nomad](https://blog.bitexpert.de/blog/nomad_logging_ionos_cloud_laas)
 - [unKonf 2025](https://blog.bitexpert.de/blog/unkonf-2025)
 - [DDEV & Sylius Test Application](https://blog.bitexpert.de/blog/ddev_sylius_test_application)
 - [Monitoring Warnings, Notices and Deprecations with Tideways](https://blog.bitexpert.de/blog/tideways_warnings_notices_deprecations)
-- [Deleting dynamic host volumes in Nomad](https://blog.bitexpert.de/blog/nomad_delete_host_volume_error)
 <!--- blog_end --->
 
 ---
