@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Nvidia workloads on Nomad](https://blog.bitexpert.de/blog/nomad_nvidia_workload)
 - [Configure Cart Redirect in Sylius](https://blog.bitexpert.de/blog/sylius_cart_redirect)
 - [Dealing with special chars in a Nomad Template block](https://blog.bitexpert.de/blog/dealing_with_special_chars_in_nomad_template)
 - [Announcing bitexpert/phpstan-sylius 0.2.0](https://blog.bitexpert.de/blog/phpstan_sylius_0_2_0)
 - [Creating and enabling IONOS Cloud LaaS users](https://blog.bitexpert.de/blog/ionos_cloud_laas_enable_user)
-- [The ultimate Sylius UX Components guide](https://blog.bitexpert.de/blog/sylius_ux_components_guide)
 <!--- blog_end --->
 
 ---
