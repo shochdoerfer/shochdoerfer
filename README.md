@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [SeaweedFS for S3 workloads](https://blog.bitexpert.de/blog/seaweedfs_s3)
 - [IONOS Cloud S3 Bucket Policy configuration](https://blog.bitexpert.de/blog/ionos_cloud_s3_bucket_policy)
 - [PHPUGMRN 06/25 meetup](https://blog.bitexpert.de/blog/phpugmrn_december_2025)
 - [Nvidia workloads on Nomad](https://blog.bitexpert.de/blog/nomad_nvidia_workload)
 - [Configure Cart Redirect in Sylius](https://blog.bitexpert.de/blog/sylius_cart_redirect)
-- [Dealing with special chars in a Nomad Template block](https://blog.bitexpert.de/blog/dealing_with_special_chars_in_nomad_template)
 <!--- blog_end --->
 
 ---
