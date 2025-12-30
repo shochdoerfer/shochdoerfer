@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Refresh Sylius Image Cache](https://blog.bitexpert.de/blog/refresh_sylius_image_cache)
 - [Introducing the DDEV Gally Addon](https://blog.bitexpert.de/blog/ddev_gally_addon)
 - [What are Sylius Twig Hook Sections?](https://blog.bitexpert.de/blog/sylius_twig_hook_sections)
 - [SeaweedFS for S3 workloads](https://blog.bitexpert.de/blog/seaweedfs_s3)
 - [IONOS Cloud S3 Bucket Policy configuration](https://blog.bitexpert.de/blog/ionos_cloud_s3_bucket_policy)
-- [PHPUGMRN 06/25 meetup](https://blog.bitexpert.de/blog/phpugmrn_december_2025)
 <!--- blog_end --->
 
 ---
