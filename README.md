@@ -8,12 +8,12 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 👷 What I'm currently working on
 
+- [DDEV Gally Addon](https://github.com/bitExpert/ddev-gally) - Gally DDEV Addon
 - [gally/sylius-plugin](https://github.com/Elastic-Suite/gally-sylius-connector) - Sylius Connector for Gally
+- [bitExpert/phpstan-sylius](https://github.com/bitExpert/phpstan-sylius) - Sylius extension for PHPStan
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento extension for PHPStan
 - [bitExpert/sulu-securitytxt-bundle](https://github.com/bitExpert/sulu-securitytxt-bundle) - Sulu Bundle to manage security.txt files
 - [bitExpert/captainhook-infection](https://github.com/bitExpert/captainhook-infection) - Infection Plugin for CaptainHookPHP
-- [hivecommerce/magento2-content-fuzzyfyr](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content.
-- [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
 
 ---
 
