@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [SpeaKonf 2026](https://blog.bitexpert.de/blog/speakonf_2026)
 - [What are Anonymous Template Component Prefixes in Sylius?](https://blog.bitexpert.de/blog/sylius_anonymous_component_template_prefixes)
 - [PHP Version Constraints for Renovate Bot](https://blog.bitexpert.de/blog/renovate_bot_php_version_constraints)
 - [ConFoo 2026](https://blog.bitexpert.de/blog/confoo_2026)
 - [Hello Docusaurus Search!](https://blog.bitexpert.de/blog/hello_docusaurus_search)
-- [Refresh Sylius Image Cache](https://blog.bitexpert.de/blog/refresh_sylius_image_cache)
 <!--- blog_end --->
 
 ---
