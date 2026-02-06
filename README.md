@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Techradar 2026 update](https://blog.bitexpert.de/blog/techradar_update_2026)
 - [E-Commerce Berlin Expo 2026](https://blog.bitexpert.de/blog/ecommerce_berlin_expo_2026)
 - [How to define index prefixes in Gally?](https://blog.bitexpert.de/blog/define_gally_index_prefixes)
 - [SpeaKonf 2026](https://blog.bitexpert.de/blog/speakonf_2026)
 - [What are Anonymous Template Component Prefixes in Sylius?](https://blog.bitexpert.de/blog/sylius_anonymous_component_template_prefixes)
-- [PHP Version Constraints for Renovate Bot](https://blog.bitexpert.de/blog/renovate_bot_php_version_constraints)
 <!--- blog_end --->
 
 ---
