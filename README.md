@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [PHPUGFFM 02/26 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_march_2026)
 - [How to update the OIDC config in Nomad?](https://blog.bitexpert.de/blog/nomad_update_oidc_config)
 - [Hello 2FA Sylius Plugin!](https://blog.bitexpert.de/blog/announcing_sylius_2fa)
 - [PHPUGMRN 01/26 meetup](https://blog.bitexpert.de/blog/phpugmrn_february_2026)
 - [Techradar 2026 update](https://blog.bitexpert.de/blog/techradar_update_2026)
-- [E-Commerce Berlin Expo 2026](https://blog.bitexpert.de/blog/ecommerce_berlin_expo_2026)
 <!--- blog_end --->
 
 ---
