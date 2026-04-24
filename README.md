@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Symfony AI Mate with DDEV](https://blog.bitexpert.de/blog/symfony_ai_mate_ddev)
 - [PHPUGFFM 03/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2025)
 - [Configuring the Sylius Breadcrumb element](https://blog.bitexpert.de/blog/configuring_sylius_breadcrumb)
 - [File uploads with the Sylius Settings plugin](https://blog.bitexpert.de/blog/sylius_settings_file_upload)
 - [Announcing bitexpert/phpstan-sylius 0.3.0](https://blog.bitexpert.de/blog/phpstan_sylius_0_3_0)
-- [PHPUnit 13: Managing return values for parameter sets](https://blog.bitexpert.de/blog/phpunit13_return_values_for_parameter_sets)
 <!--- blog_end --->
 
 ---
