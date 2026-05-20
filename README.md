@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Sound Notifications in OpenCode](https://blog.bitexpert.de/blog/opencode_plugin_notifications)
 - [Using templates in Nomad job files](https://blog.bitexpert.de/blog/using_templates_in_nomad)
 - [API Platform Conference 2026](https://blog.bitexpert.de/blog/api_platform_conference_2026)
 - [How to autocomplete translatable entities in Sylius](https://blog.bitexpert.de/blog/sylius_translations_autocomplete)
 - [Symfony AI Mate with DDEV](https://blog.bitexpert.de/blog/symfony_ai_mate_ddev)
-- [PHPUGFFM 03/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2025)
 <!--- blog_end --->
 
 ---
