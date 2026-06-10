@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Symfony UX Calendar Links](https://blog.bitexpert.de/blog/symfony_ux_calendar_links)
 - [PHPUGMRN 03/26 meetup](https://blog.bitexpert.de/blog/phpugmrn_june_2026)
 - [PHP Developer Day 2026 Conference](https://blog.bitexpert.de/blog/php_developer_day_2026)
 - [Sound Notifications in OpenCode](https://blog.bitexpert.de/blog/opencode_plugin_notifications)
 - [Using templates in Nomad job files](https://blog.bitexpert.de/blog/using_templates_in_nomad)
-- [API Platform Conference 2026](https://blog.bitexpert.de/blog/api_platform_conference_2026)
 <!--- blog_end --->
 
 ---
