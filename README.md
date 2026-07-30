@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [PHPUGMRN 04/26 meetup](https://blog.bitexpert.de/blog/phpugmrn_august_2026)
 - [How we've built the unKonf ticketshop](https://blog.bitexpert.de/blog/how_we_built_unkonf_ticketshop)
 - [Connection Pooling for Onyx AI](https://blog.bitexpert.de/blog/onyx_connection_pooling)
 - [Codebase Memory Management for OpenCode](https://blog.bitexpert.de/blog/opencode_codebase_memory_mcp)
 - [How to customize Sylius Grids?](https://blog.bitexpert.de/blog/sylius_grid_customization)
-- [Nomad Rescheduling Error](https://blog.bitexpert.de/blog/nomad_rescheduling_error)
 <!--- blog_end --->
 
 ---
