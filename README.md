@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Odoo development with DDEV](https://blog.bitexpert.de/blog/odoo_development_with_ddev)
 - [Give your coding agent a memory](https://blog.bitexpert.de/blog/engram_agent_memory)
 - [DDEV Gally 2.3 Addon Release](https://blog.bitexpert.de/blog/ddev_gally_2_3_0_addon)
 - [PHPUGMRN 04/26 meetup](https://blog.bitexpert.de/blog/phpugmrn_august_2026)
 - [How we've built the unKonf ticketshop](https://blog.bitexpert.de/blog/how_we_built_unkonf_ticketshop)
-- [Connection Pooling for Onyx AI](https://blog.bitexpert.de/blog/onyx_connection_pooling)
 <!--- blog_end --->
 
 ---
