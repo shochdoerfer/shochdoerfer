@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [The WebMCP Challenge: Wishlist Concierge](https://blog.bitexpert.de/blog/webmcp_challenge_sylius_wishlist_concierge)
 - [Runtime Doctrine ORM analysis with Doctrine Doctor](https://blog.bitexpert.de/blog/doctrine_doctor)
 - [Improving Cert Handling in Nomad](https://blog.bitexpert.de/blog/nomad_improved_cert_handling)
 - [Odoo development with DDEV](https://blog.bitexpert.de/blog/odoo_development_with_ddev)
 - [Give your coding agent a memory](https://blog.bitexpert.de/blog/engram_agent_memory)
-- [DDEV Gally 2.3 Addon Release](https://blog.bitexpert.de/blog/ddev_gally_2_3_0_addon)
 <!--- blog_end --->
 
 ---
