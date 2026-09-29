@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [Symfony Security Auditor](https://blog.bitexpert.de/blog/symfony_security_auditor)
 - [Hot reload with FrankenPHP](https://blog.bitexpert.de/blog/frankenphp_hot_reload)
 - [Traefik OIDC setup](https://blog.bitexpert.de/blog/traefik_oidc)
 - [Running Qwen 3.8 on Hashicorp Nomad](https://blog.bitexpert.de/blog/nomad_qwen_3_8)
 - [The WebMCP Challenge: Wishlist Concierge](https://blog.bitexpert.de/blog/webmcp_challenge_sylius_wishlist_concierge)
-- [Runtime Doctrine ORM analysis with Doctrine Doctor](https://blog.bitexpert.de/blog/doctrine_doctor)
 <!--- blog_end --->
 
 ---
