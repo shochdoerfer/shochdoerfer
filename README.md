@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [OpenCode V2 upgrade](https://blog.bitexpert.de/blog/opencode_v2_upgrade)
 - [FrankenPHP & Caddy WAF](https://blog.bitexpert.de/blog/frankenphp_caddy_waf)
 - [PHPUGMRN 05/26 meetup (Symfony meetup)](https://blog.bitexpert.de/blog/phpugmrn_october_2026)
 - [Symfony Security Auditor](https://blog.bitexpert.de/blog/symfony_security_auditor)
 - [Hot reload with FrankenPHP](https://blog.bitexpert.de/blog/frankenphp_hot_reload)
-- [Traefik OIDC setup](https://blog.bitexpert.de/blog/traefik_oidc)
 <!--- blog_end --->
 
 ---
