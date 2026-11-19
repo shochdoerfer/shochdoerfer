@@ -29,11 +29,11 @@ I help companies to turn their "problems" into their competitive advantages by c
 
 #### 💬 What I am blogging about
 <!--- blog_start --->
+- [PHPUGFFM 05/26 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_november_2026)
 - [Announcing bitexpert/phpstan-sylius 0.4.0](https://blog.bitexpert.de/blog/phpstan_sylius_0_4_0)
 - [Happy Birthday BitExpert blog!](https://blog.bitexpert.de/blog/happy_birthday_bitexpert_blog)
 - [OpenCode V2 upgrade](https://blog.bitexpert.de/blog/opencode_v2_upgrade)
 - [FrankenPHP & Caddy WAF](https://blog.bitexpert.de/blog/frankenphp_caddy_waf)
-- [PHPUGMRN 05/26 meetup (Symfony meetup)](https://blog.bitexpert.de/blog/phpugmrn_october_2026)
 <!--- blog_end --->
 
 ---
